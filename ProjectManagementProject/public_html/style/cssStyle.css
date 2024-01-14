@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14-Jan-2024, 11:24:06 am
+    Author     : rk17ambala
+*/
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap'); 
+
+.container{
+    margin-top:30px;
+}
+
+.btn-continer{
+    display:flex;
+    justify-content: center;
+    
+}
+
+.btn{
+   margin-left:20px;
+   margin-right:20px;
+}
+
